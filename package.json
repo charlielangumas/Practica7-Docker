@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.22.2",
+    "mysql2": "^3.24.6"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
